@@ -17,3 +17,17 @@ nav {
 .active {
     text-decoration: underline;
 }
+
+.view-page{
+    padding: 20px;
+}
+
+.product {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.items{
+    padding:10px;
+    width:100%;
+}
